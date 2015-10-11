@@ -59,6 +59,7 @@
 		3825B7371BCAF59E000D4491 = {
 			isa = PBXGroup;
 			children = (
+				3825B7661BCAF5B1000D4491 /* Resources */,
 				3825B7421BCAF59E000D4491 /* ImpactAlertSwift */,
 				3825B7581BCAF59E000D4491 /* ImpactAlertSwiftTests */,
 				3825B7411BCAF59E000D4491 /* Products */,
@@ -77,6 +78,7 @@
 		3825B7421BCAF59E000D4491 /* ImpactAlertSwift */ = {
 			isa = PBXGroup;
 			children = (
+				3825B7651BCAF5A8000D4491 /* CustomClasses */,
 				3825B7451BCAF59E000D4491 /* AppDelegate.swift */,
 				3825B7471BCAF59E000D4491 /* ViewController.swift */,
 				3825B7491BCAF59E000D4491 /* Main.storyboard */,
@@ -110,6 +112,20 @@
 				3825B75A1BCAF59E000D4491 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3825B7651BCAF5A8000D4491 /* CustomClasses */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = CustomClasses;
+			sourceTree = "<group>";
+		};
+		3825B7661BCAF5B1000D4491 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
